@@ -31,4 +31,4 @@ To test the API, I recommend using insomnia
   ### Video classes
   [Rocketseat](https://app.rocketseat.com.br/)
 
-Feito com :blue_heart: por Pedro Henrique - [LinkedIn](https://www.linkedin.com/in/pedrohenriqueoliveiramartins/)
+Feito com :blue_heart: por [Pedro Henrique](https://www.linkedin.com/in/pedrohenriqueoliveiramartins/)
